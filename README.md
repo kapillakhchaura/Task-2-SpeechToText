@@ -21,9 +21,4 @@ PyAudio
 Wave
 
 
-How to Run
 
-1. Clone the repository
-bash
-git clone https://github.com/yourusername/speech-to-text-task.git
-cd speech-to-text-task
